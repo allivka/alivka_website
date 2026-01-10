@@ -9,6 +9,9 @@ h1 {
   text-align: center;
 }
 
+hr {
+  border-color: white;
+}
 a {
   color: Aquamarine;
 }
