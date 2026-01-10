@@ -1,2 +1,2 @@
 # alivka_website
-A testing website
+A little bio ot portfolio website
